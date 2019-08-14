@@ -30,9 +30,9 @@
 
 ## Practice Projects
 - [ ] [ChaiCMS](https://github.com/ndjamenamarmon/chaicms)
-- [ ] Trip Budgeting App
+- [x] Trip Budgeting App
 - [ ] Gatsby portfolio site
-- [ ] An app to input ingredients and get back recipes (?)
+- [ ] An app to input ingredients and get back recipes OR a knitting app (?)
 
 # Git
 - [ ] Git documentation
@@ -48,6 +48,8 @@
 
 ## Practice Projects
 - [ ] [ChaiCMS](https://github.com/ndjamenamarmon/chaicms)
+- [x] Trip Budgeting App
+- [x] Portfolio site
 
 # UI/UX
 ## Courses / Books / Study Materials
@@ -65,7 +67,7 @@
 
 ## Practice Projects
 - [ ] [ChaiCMS](https://github.com/ndjamenamarmon/chaicms)
-- [ ] Trip Budgeting App
+- [x] Trip Budgeting App
 
 # GraphQL
 ## Courses / Books / Study Materials
@@ -73,6 +75,7 @@
 
 ## Practice Projects
 - [ ] [ChaiCMS](https://github.com/ndjamenamarmon/chaicms)
+- [ ] Trip Budgeting App
 
 # ES6
 ## Courses / Books / Study Materials
@@ -80,14 +83,16 @@
 
 ## Practice Projects
 - [ ] [ChaiCMS](https://github.com/ndjamenamarmon/chaicms)
+- [x] Trip Budgeting App
 
 # Unit Testing (Javascript)
 ## Courses / Books / Study Materials
 - [x] The Complete React Web Developer Course (with Redux) by Andrew Mead (Udemy)
-- [ ] React testing library documentation
+- [x] React testing library documentation
 
 ## Practice Projects
 - [ ] [ChaiCMS](https://github.com/ndjamenamarmon/chaicms)
+- [x] Trip Budgeting App
 
 # Webpack
 
