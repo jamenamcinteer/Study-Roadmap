@@ -1,25 +1,24 @@
 # Roadmap Overview
 2019
-- [ ] React
+- [x] React
 - [ ] Git
 - [ ] Greensock
-- [ ] Accessibility
+- [x] Accessibility
 - [ ] UI/UX
-- [ ] Node
+- [x] Node
 - [ ] GraphQL
-- [ ] ES6
+- [x] ES6
 - [ ] Unit Testing (Javascript)
 - [ ] Webpack
-- [ ] C# and Unit Testing in C#
+- [x] C# and Unit Testing in C#
 - [ ] Algorithms and Data Structures
 
 2020
 - [ ] The Technical Interview
-- [ ] Angular
-- [ ] Typescript
-- [ ] AWS Certification
+- [ ] Python with Machine Learning
 - [ ] React Native
-- [ ] Python
+- [ ] Typescript
+- [ ] Angular
 
 # React
 
@@ -29,9 +28,9 @@
 - [x] Hooks documentation
 
 ## Practice Projects
-- [ ] [ChaiCMS](https://github.com/ndjamenamarmon/chaicms)
-- [x] Trip Budgeting App
-- [ ] Gatsby portfolio site
+- [x] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
+- [x] [Voyageur](https://github.com/jamenamcinteer/voyageur)
+- [x] Gatsby portfolio site
 - [ ] An app to input ingredients and get back recipes OR a knitting app (?)
 
 # Git
@@ -47,8 +46,8 @@
 - [x] Accessibility Handbook by Katie Cunningham (book)
 
 ## Practice Projects
-- [ ] [ChaiCMS](https://github.com/ndjamenamarmon/chaicms)
-- [x] Trip Budgeting App
+- [x] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
+- [x] [Voyageur](https://github.com/jamenamcinteer/voyageur)
 - [x] Portfolio site
 
 # UI/UX
@@ -56,8 +55,8 @@
 - [x] DESIGN RULES: Principles + Practices for Great UI Design
 
 ## Practice Projects
-- [ ] [ChaiCMS](https://github.com/ndjamenamarmon/chaicms)
-- [ ] Trip Budgeting App
+- [ ] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
+- [ ] [Voyageur](https://github.com/jamenamcinteer/voyageur)
 - [ ] Gatsby portfolio site
 
 # Node
@@ -66,7 +65,7 @@
 - [ ] Node.js: The Complete Guide to Build RESTful APIs (2018) by Mosh Hamedani (Udemy)
 
 ## Practice Projects
-- [ ] [ChaiCMS](https://github.com/ndjamenamarmon/chaicms)
+- [x] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
 - [x] Trip Budgeting App
 
 # GraphQL
@@ -74,16 +73,16 @@
 - [ ] GraphQL documentation
 
 ## Practice Projects
-- [ ] [ChaiCMS](https://github.com/ndjamenamarmon/chaicms)
-- [ ] Trip Budgeting App
+- [ ] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
+- [ ] [Voyageur](https://github.com/jamenamcinteer/voyageur)
 
 # ES6
 ## Courses / Books / Study Materials
 - [ ] ES6 Javascript: The Complete Developer's Guide by Stephen Grider (Udemy)
 
 ## Practice Projects
-- [ ] [ChaiCMS](https://github.com/ndjamenamarmon/chaicms)
-- [x] Trip Budgeting App
+- [x] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
+- [x] [Voyageur]()
 
 # Unit Testing (Javascript)
 ## Courses / Books / Study Materials
@@ -91,8 +90,8 @@
 - [x] React testing library documentation
 
 ## Practice Projects
-- [ ] [ChaiCMS](https://github.com/ndjamenamarmon/chaicms)
-- [x] Trip Budgeting App
+- [ ] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
+- [x] [Voyageur](https://github.com/jamenamcinteer/voyageur)
 
 # Webpack
 
@@ -101,6 +100,6 @@
 - [x] Learn C# By Building Applications by Avetis Ghukasyan (Udemy)
 
 ## Practice Projects
-- [x] [Add Events to SharePoint in C Sharp](https://github.com/ndjamenamarmon/Add-Events-to-SharePoint-in-C-Sharp)
+- [x] [Add Events to SharePoint in C Sharp](https://github.com/jamenamcinteer/Add-Events-to-SharePoint-in-C-Sharp)
 
 # Algorithms and Data Structures
