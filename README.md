@@ -1,23 +1,23 @@
 # Roadmap Overview
 2019
 - [x] React
-- [ ] Git
-- [ ] Greensock
+- [x] Git
 - [x] Accessibility
-- [ ] UI/UX
+- [ ] UI/UX (||........)
 - [x] Node
-- [ ] GraphQL
+- [ ] GraphQL (..........)
 - [x] ES6
-- [ ] Unit Testing (Javascript)
-- [ ] Webpack
+- [ ] Unit Testing (Javascript) (||||||....)
 - [x] C# and Unit Testing in C#
-- [ ] Algorithms and Data Structures
+- [ ] Algorithms and Data Structures (..........)
+- [ ] Greensock (|||||.....)
 
 2020
 - [ ] The Technical Interview
-- [ ] Python with Machine Learning
-- [ ] React Native
+- [ ] Docker and Kubernetes
 - [ ] Typescript
+- [ ] React Native
+- [ ] Python with Machine Learning
 - [ ] Angular
 
 # React
@@ -34,12 +34,7 @@
 - [ ] An app to input ingredients and get back recipes OR a knitting app (?)
 
 # Git
-- [ ] Git documentation
-
-# Greensock
-## Courses / Books / Study Materials
-- [x] SVG Animations by Sarah Drasner (book)
-- [ ] Greensock documentation
+- [x] Git documentation
 
 # Accessibility
 ## Courses / Books / Study Materials
@@ -53,6 +48,7 @@
 # UI/UX
 ## Courses / Books / Study Materials
 - [x] DESIGN RULES: Principles + Practices for Great UI Design
+- [ ] Workflow of Modern Web Design from Wireframes to Style Guide
 
 ## Practice Projects
 - [ ] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
@@ -71,6 +67,8 @@
 # GraphQL
 ## Courses / Books / Study Materials
 - [ ] GraphQL documentation
+- [ ] The Modern GraphQL Bootcamp (Udemy)
+- [ ] GraphQL with React: The Complete Developers Guide
 
 ## Practice Projects
 - [ ] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
@@ -82,7 +80,7 @@
 
 ## Practice Projects
 - [x] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
-- [x] [Voyageur]()
+- [x] [Voyageur](https://github.com/jamenamcinteer/voyageur)
 
 # Unit Testing (Javascript)
 ## Courses / Books / Study Materials
@@ -92,8 +90,7 @@
 ## Practice Projects
 - [ ] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
 - [x] [Voyageur](https://github.com/jamenamcinteer/voyageur)
-
-# Webpack
+- [ ] Buefy (using Vue test utils)
 
 # C# and Unit Testing in C#
 ## Courses / Books / Study Materials
@@ -103,3 +100,9 @@
 - [x] [Add Events to SharePoint in C Sharp](https://github.com/jamenamcinteer/Add-Events-to-SharePoint-in-C-Sharp)
 
 # Algorithms and Data Structures
+- [ ] The Coding Interview Bootcamp: Algorithms + Data Structures
+
+# Greensock
+## Courses / Books / Study Materials
+- [x] SVG Animations by Sarah Drasner (book)
+- [ ] Greensock documentation
