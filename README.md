@@ -3,16 +3,16 @@
 - [x] React
 - [x] Git
 - [x] Accessibility
-- [ ] UI/UX (||........)
+- [ ] UI/UX (||........) - Due 11/30/19
 - [x] Node
-- [ ] GraphQL (..........)
+- [ ] GraphQL (..........) - Due 11/30/19
 - [x] ES6
-- [ ] Unit Testing (Javascript) (||||||....)
+- [ ] Unit Testing (Javascript) (||||||....) - Due 10/31/19 
 - [x] C# and Unit Testing in C#
-- [ ] Algorithms and Data Structures (..........)
-- [ ] Greensock (|||||.....)
+- [ ] Algorithms and Data Structures (..........) - Due 12/31/19
 
 2020
+- [ ] Greensock
 - [ ] The Technical Interview
 - [ ] Docker and Kubernetes
 - [ ] Typescript
@@ -48,7 +48,7 @@
 # UI/UX
 ## Courses / Books / Study Materials
 - [x] DESIGN RULES: Principles + Practices for Great UI Design
-- [ ] Workflow of Modern Web Design from Wireframes to Style Guide
+- [ ] Workflow of Modern Web Design from Wireframes to Style Guide - 7.5 hrs
 
 ## Practice Projects
 - [ ] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
@@ -57,8 +57,8 @@
 
 # Node
 ## Courses / Books / Study Materials
-- [ ] Node with React: Full Stack Web Development with Stephen Grider (Udemy)
-- [ ] Node.js: The Complete Guide to Build RESTful APIs (2018) by Mosh Hamedani (Udemy)
+- [x] Node with React: Full Stack Web Development with Stephen Grider (Udemy)
+- Future: Node.js: The Complete Guide to Build RESTful APIs (2018) by Mosh Hamedani (Udemy)
 
 ## Practice Projects
 - [x] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
@@ -66,9 +66,8 @@
 
 # GraphQL
 ## Courses / Books / Study Materials
-- [ ] GraphQL documentation
-- [ ] The Modern GraphQL Bootcamp (Udemy)
-- [ ] GraphQL with React: The Complete Developers Guide
+- [ ] GraphQL with React: The Complete Developers Guide - 13.5 hrs
+- Future: The Modern GraphQL Bootcamp (Udemy) - 23.5 hrs
 
 ## Practice Projects
 - [ ] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
@@ -100,7 +99,7 @@
 - [x] [Add Events to SharePoint in C Sharp](https://github.com/jamenamcinteer/Add-Events-to-SharePoint-in-C-Sharp)
 
 # Algorithms and Data Structures
-- [ ] The Coding Interview Bootcamp: Algorithms + Data Structures
+- [ ] The Coding Interview Bootcamp: Algorithms + Data Structures - 13 hrs
 
 # Greensock
 ## Courses / Books / Study Materials
