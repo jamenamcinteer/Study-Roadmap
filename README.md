@@ -1,4 +1,6 @@
 # Roadmap Overview
+New skills I want to learn or existing skills to improve and refresh.
+
 2019
 - [x] React
 - [x] Git
@@ -24,14 +26,12 @@
 
 ## Courses / Books / Study Materials
 - [x] The Complete React Web Developer Course (with Redux) by Andrew Mead (Udemy)
-- [ ] Above course with Hooks addition
 - [x] Hooks documentation
 
 ## Practice Projects
 - [x] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
 - [x] [Voyageur](https://github.com/jamenamcinteer/voyageur)
 - [x] Gatsby portfolio site
-- [ ] An app to input ingredients and get back recipes OR a knitting app (?)
 
 # Git
 - [x] Git documentation
@@ -75,7 +75,7 @@
 
 # ES6
 ## Courses / Books / Study Materials
-- [ ] ES6 Javascript: The Complete Developer's Guide by Stephen Grider (Udemy)
+- [x] ES6 Javascript: The Complete Developer's Guide by Stephen Grider (Udemy)
 
 ## Practice Projects
 - [x] [ChaiCMS](https://github.com/jamenamcinteer/chaicms)
